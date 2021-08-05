@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         }
         else
         {
-            super.onBackPressed() //일반 백버ㅓ튼 기능 실행(finish)
+            super.onBackPressed() //일반 백버튼 기능 실행(finish)
         }
     }
 
