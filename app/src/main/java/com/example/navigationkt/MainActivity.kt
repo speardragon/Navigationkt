@@ -44,4 +44,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             super.onBackPressed() //일반 백버ㅓ튼 기능 실행(finish)
         }
     }
+
+
 }
